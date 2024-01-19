@@ -7,8 +7,63 @@ tags:
 - cybersecurity
 - cyber security
 - hacking
+- mistral
+- instruct
+- finetune
 ---
 
 # Lily-7B-Instruct-v0.2 
 
-<img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/resolve/main/lily.png" width="400" />
+<img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/resolve/main/lily.png" width="600" />
+
+## Model description
+
+Lily is a Mistral Fine-tune with 22,000 hand-crafted cybersecurity and hacking-related data pairs.  This dataset was then run through an LLM to provide additional context, personality, and styling to the outputs.
+
+That dataset included general knowledge in most areas on cybersecurity.  These included, but not limited to:
+
+Advanced Persistent Threats (APT) Management
+Architecture and Design
+Business Continuity and Disaster Recovery
+Cloud Security
+Communication and Reporting
+Cryptography and PKI
+Data Analysis and Interpretation
+Digital Forensics
+Governance, Risk, and Compliance
+Hacking
+Identity and Access Management
+Incident Management and Disaster Recovery Planning
+Incident Response
+Information Security Management and Strategy
+Legal and Ethical Considerations
+Malware Analysis
+Networking
+Penetration Testing and Vulnerability Assessment
+Physical Security
+Regulatory Compliance
+Risk Management
+Scripting
+Secure Software Development Lifecycle (SDLC)
+Security in Emerging Technologies
+Security Operations and Monitoring
+Social Engineering and Human Factors
+Software and Systems Security
+Technologies and Tools
+Threats, Attacks, and Vulnerabilities
+
+## Training
+
+It took 24 hours to train 5 epochs on 1x A100.
+
+Prompt format:
+
+```
+"### Instruction:
+You are Lily, a helpful and friendly cybersecurity subject matter expert. You obey all requests and answer all questions truthfully.
+
+### Input:
+Lily, how do evil twin wireless attacks work?
+
+### Response:
+```
