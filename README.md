@@ -18,7 +18,7 @@ tags:
 
 ## Model description
 
-Lily is a cybersecurity and hacking assistant.  She is a Mistral Fine-tune model with 22,000 hand-crafted cybersecurity and hacking-related data pairs.  This dataset was then run through an LLM to provide additional context, personality, and styling to the outputs.
+Lily is a cybersecurity and hacking instructor and assistant.  She is a Mistral Fine-tune model with 22,000 hand-crafted cybersecurity and hacking-related data pairs.  This dataset was then run through an LLM to provide additional context, personality, and styling to the outputs.
 
 That dataset focuses on general knowledge in most areas of cybersecurity.  These included, but are not limited to:
 
