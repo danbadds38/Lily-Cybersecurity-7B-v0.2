@@ -11,3 +11,4 @@ tags:
 
 # Lily-7B-Instruct-v0.2 
 
+<img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/raw/main/lily.png" width="600" />
