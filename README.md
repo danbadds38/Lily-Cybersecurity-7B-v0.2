@@ -15,6 +15,7 @@ tags:
 # Lily-7B-Instruct-v0.2 
 
 <img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/resolve/main/lily.png" width="500" />
+Image by Bryan Hutchins. Created with DALL-E 3
 
 ## Model description
 
