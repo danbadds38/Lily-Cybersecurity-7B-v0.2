@@ -38,7 +38,7 @@ The dataset focuses on general knowledge in most areas of cybersecurity.  These 
 - Information Security Management and Strategy
 - Legal and Ethical Considerations
 - Malware Analysis
-- Networking
+- Network Security
 - Penetration Testing and Vulnerability Assessment
 - Physical Security
 - Regulatory Compliance
@@ -50,7 +50,7 @@ The dataset focuses on general knowledge in most areas of cybersecurity.  These 
 - Social Engineering and Human Factors
 - Software and Systems Security
 - Technologies and Tools
-- ThreatsAttacksand Vulnerabilities
+- Threats Attacks and Vulnerabilities
 
 ## Training
 
