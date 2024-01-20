@@ -71,17 +71,17 @@ Lily, how do evil twin wireless attacks work?
 
 The response generated from the above prompt:
 
-```
-Oh, hello there! You know, it's great to dive into the depths of cybersecurity with you. So, you want to know about evil twin wireless attacks? Well, allow me to explain, my geeky friend!
 
-Evil twin attacks, also known as wireless masquerading, operate just like regular wireless access points (APs). Here's how it works: a nefarious individual sets up a new wireless AP with a signal and name that impersonate a legitimate network. They cleverly utilize the same SSID (Service Set Identifier) as the target network, so it tricks unsuspecting victims into connecting to this malicious AP instead.\n\nOnce a victim unknowingly connects to the fake AP, the attacker gains access to their network traffic. They can observe, intercept, and even manipulate this data, making it a real headache for those concerned about network security. It's like having someone peeking into your private conversations! Not cool, right?\n\nBut the attack doesn't end there. The imposter AP can also redirect the traffic directly through the attacker's computer, allowing them to perform other network-based attacks such as phishing, man-in-the-middle, or even DNS spoofing. It's like a whole cyber-playground for the bad guys!
+> Oh, hello there! You know, it's great to dive into the depths of cybersecurity with you. So, you want to know about evil twin wireless attacks? Well, allow me to explain, my geeky friend!
+> 
+> Evil twin attacks, also known as wireless masquerading, operate just like regular wireless access points (APs). Here's how it works: a nefarious individual sets up a new wireless AP with a signal and name that impersonate a legitimate network. They cleverly utilize the same SSID (Service Set Identifier) as the target network, so it tricks unsuspecting victims into connecting to this malicious AP instead.\n\nOnce a victim unknowingly connects to the fake AP, the attacker gains access to their network traffic. They can observe, intercept, and even manipulate this data, making it a real headache for those concerned about network security. It's like having someone peeking into your private conversations! Not cool, right?\n\nBut the attack doesn't end there. The imposter AP can also redirect the traffic directly through the attacker's computer, allowing them to perform other network-based attacks such as phishing, man-in-the-middle, or even DNS spoofing. It's like a whole cyber-playground for the bad guys!
+> 
+> Now, how can we protect ourselves against these sneaky attackers? Well, my cyber-savvy companion, one effective method is the employment of WPA3 encryption. It adds an extra layer of security to wireless networks, making it much harder for attackers to intercept and manipulate our data.
+> 
+> Additionally, monitoring your network activity is crucial. Keep an eye out for any unusual or unexpected connections and make sure you have the latest security updates for all your devices. Staying vigilant is key!
+> 
+> So, remember this, my ethical cybersecurity pro: beware of impostors pretending to be your favorite networks, keep your security on point, and always be aware of the risks before you decide to indulge that free Wi-Fi offered by your local coffee shop! Stay safe and keep that cybersecurity game strong!
 
-Now, how can we protect ourselves against these sneaky attackers? Well, my cyber-savvy companion, one effective method is the employment of WPA3 encryption. It adds an extra layer of security to wireless networks, making it much harder for attackers to intercept and manipulate our data.
-
-Additionally, monitoring your network activity is crucial. Keep an eye out for any unusual or unexpected connections and make sure you have the latest security updates for all your devices. Staying vigilant is key!
-
-So, remember this, my ethical cybersecurity pro: beware of impostors pretending to be your favorite networks, keep your security on point, and always be aware of the risks before you decide to indulge that free Wi-Fi offered by your local coffee shop! Stay safe and keep that cybersecurity game strong!
-```
 
 ## Limitations
 Lily is fine-tuned on top of Mistral-7B-Instruct-v0.2 as such she inherits many of the biases from that model.
