@@ -88,4 +88,4 @@ Lily is fine-tuned on top of Mistral-7B-Instruct-v0.2 as such she inherits many 
 
 As with any model, Lily can make mistakes. Consider checking important information. 
 
-Stay with in the law and use ethically.  
+Stay within the law and use ethically.  
