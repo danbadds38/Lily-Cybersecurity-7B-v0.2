@@ -22,36 +22,35 @@ tags:
 Lily is a cybersecurity and hacking instructor and assistant.  She is a Mistral Fine-tune model with 22,000 hand-crafted cybersecurity and hacking-related data pairs.  This dataset was then run through an LLM to provide additional context, personality, and styling to the outputs.
 
 The dataset focuses on general knowledge in most areas of cybersecurity.  These included, but are not limited to:
-
-Advanced Persistent Threats (APT) Management, 
-Architecture and Design, 
-Business Continuity and Disaster Recovery, 
-Cloud Security, 
-Communication and Reporting, 
-Cryptography and PKI, 
-Data Analysis and Interpretation, 
-Digital Forensics, 
-Governance, Risk, and Compliance, 
-Hacking, 
-Identity and Access Management, 
-Incident Management and Disaster Recovery Planning, 
-Incident Response, 
-Information Security Management and Strategy, 
-Legal and Ethical Considerations, 
-Malware Analysis, 
-Networking, 
-Penetration Testing and Vulnerability Assessment, 
-Physical Security, 
-Regulatory Compliance, 
-Risk Management, 
-Scripting, 
-Secure Software Development Lifecycle (SDLC), 
-Security in Emerging Technologies, 
-Security Operations and Monitoring, 
-Social Engineering and Human Factors, 
-Software and Systems Security, 
-Technologies and Tools, 
-Threats, Attacks, and Vulnerabilities, 
+- Advanced Persistent Threats (APT) Management
+- Architecture and Design
+- Business Continuity and Disaster Recovery
+- Cloud Security
+- Communication and Reporting
+- Cryptography and PKI
+- Data Analysis and Interpretation
+- Digital Forensics
+- GovernanceRiskand Compliance
+- Hacking
+- Identity and Access Management
+- Incident Management and Disaster Recovery Planning
+- Incident Response
+- Information Security Management and Strategy
+- Legal and Ethical Considerations
+- Malware Analysis
+- Networking
+- Penetration Testing and Vulnerability Assessment
+- Physical Security
+- Regulatory Compliance
+- Risk Management
+- Scripting
+- Secure Software Development Lifecycle (SDLC)
+- Security in Emerging Technologies
+- Security Operations and Monitoring
+- Social Engineering and Human Factors
+- Software and Systems Security
+- Technologies and Tools
+- ThreatsAttacksand Vulnerabilities
 
 ## Training
 
@@ -74,7 +73,11 @@ The response generated from the above prompt:
 
 > Oh, hello there! You know, it's great to dive into the depths of cybersecurity with you. So, you want to know about evil twin wireless attacks? Well, allow me to explain, my geeky friend!
 > 
-> Evil twin attacks, also known as wireless masquerading, operate just like regular wireless access points (APs). Here's how it works: a nefarious individual sets up a new wireless AP with a signal and name that impersonate a legitimate network. They cleverly utilize the same SSID (Service Set Identifier) as the target network, so it tricks unsuspecting victims into connecting to this malicious AP instead.\n\nOnce a victim unknowingly connects to the fake AP, the attacker gains access to their network traffic. They can observe, intercept, and even manipulate this data, making it a real headache for those concerned about network security. It's like having someone peeking into your private conversations! Not cool, right?\n\nBut the attack doesn't end there. The imposter AP can also redirect the traffic directly through the attacker's computer, allowing them to perform other network-based attacks such as phishing, man-in-the-middle, or even DNS spoofing. It's like a whole cyber-playground for the bad guys!
+> Evil twin attacks, also known as wireless masquerading, operate just like regular wireless access points (APs). Here's how it works: a nefarious individual sets up a new wireless AP with a signal and name that impersonate a legitimate network. They cleverly utilize the same SSID (Service Set Identifier) as the target network, so it tricks unsuspecting victims into connecting to this malicious AP instead.
+>
+> Once a victim unknowingly connects to the fake AP, the attacker gains access to their network traffic. They can observe, intercept, and even manipulate this data, making it a real headache for those concerned about network security. It's like having someone peeking into your private conversations! Not cool, right?
+>
+> But the attack doesn't end there. The imposter AP can also redirect the traffic directly through the attacker's computer, allowing them to perform other network-based attacks such as phishing, man-in-the-middle, or even DNS spoofing. It's like a whole cyber-playground for the bad guys!
 > 
 > Now, how can we protect ourselves against these sneaky attackers? Well, my cyber-savvy companion, one effective method is the employment of WPA3 encryption. It adds an extra layer of security to wireless networks, making it much harder for attackers to intercept and manipulate our data.
 > 
