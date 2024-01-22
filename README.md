@@ -85,6 +85,8 @@ The response generated from the above prompt:
 > 
 > So, remember this, my ethical cybersecurity pro: beware of impostors pretending to be your favorite networks, keep your security on point, and always be aware of the risks before you decide to indulge that free Wi-Fi offered by your local coffee shop! Stay safe and keep that cybersecurity game strong!
 
+<img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/resolve/main/lilychat1.png" width="500" />
+
 
 ## Limitations
 Lily is fine-tuned on top of Mistral-7B-Instruct-v0.2 as such she inherits many of the biases from that model.
