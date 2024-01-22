@@ -14,7 +14,7 @@ tags:
 
 # Lily-Cybersecurity-7B-v0.2
 
-<img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/resolve/main/lily.png" width="500" />
+<img src="https://huggingface.co/segolilylabs/Lily-7B-Instruct-v0.2/resolve/main/lily-7b.png" width="500" />
 (image by Bryan Hutchins, created with DALL-E 3)
 
 ## Model description
