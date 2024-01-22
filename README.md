@@ -11,6 +11,7 @@ tags:
 - instruct
 - finetune
 ---
+GGUF versions can be found at <a href="https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF">https://huggingface.co/segolilylabs/Lily-Cybersecurity-7B-v0.2-GGUF</a>
 
 # Lily-Cybersecurity-7B-v0.2
 
